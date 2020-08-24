@@ -1,0 +1,7 @@
+ovo je txt file
+.
+.
+.
+.
+.
+dodao pomocu komande nano
